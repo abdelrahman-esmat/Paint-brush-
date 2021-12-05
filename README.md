@@ -106,7 +106,7 @@ Features include:
 
 
 ### Usage notes
-* The paint canvas is the white area, it's not allowed to draw in the UI area. If the starting point is in the gray are, nothing will be drawn.
+* The paint canvas is the white area, it's not allowed to draw in the UI area. If the starting point is in the gray area, nothing will be drawn.
 * Please DO NOT change the window size as most of the dimensions are hard coded.
 
 
