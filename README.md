@@ -105,7 +105,9 @@ Features include:
 <img width="954" alt="snapshot" src="https://user-images.githubusercontent.com/95490658/144742497-b6c2f832-33a6-45d2-ad45-d9774738dbdc.PNG">
 
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+### Usage notes
+* The paint canvas is the white area, it's not allowed to draw in the UI area. If the starting point is in the gray are, nothing will be drawn.
+* Please DO NOT change the window size as most of the dimensions are hard coded.
 
 
 
