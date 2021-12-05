@@ -53,7 +53,7 @@
 ## About The Project
 
 
-A simple paint brush app developped using Java Applet and the Awt package, it's main goal is a demonstration of OOP concepts.
+A simple paint brush app developped using Java Applet and the Awt package, its main goal is to demonstrate OOP concepts.
 Features include:
 * Free hand drawing.
 * Shapes: rectangle, oval, line.
