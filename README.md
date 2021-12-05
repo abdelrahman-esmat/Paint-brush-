@@ -84,18 +84,16 @@ Features include:
 
 ### Installation
 
-No installation required 
+* No installation required 
 
 ### Run
 
 #### main 
-Just run the bat file
+* Just run the bat file
 #### alternative 
-Open the CMD in the directory where the html file is located and type 
-
+* Open the CMD in the directory where the html file is located and type 
 ```
 appletviewer paint.html
-
 ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
