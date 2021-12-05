@@ -53,7 +53,13 @@
 ## About The Project
 
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email`, `email_client`, `project_title`, `project_description`
+A simple paint brush app developped using Java Applet and the Awt package, it's main goal is a demonstration of OOP concepts.
+Features include:
+* Free hand drawing.
+* Shapes: rectangle, oval, line.
+* eraser,undo and clear all.
+* A five colors palette.
+* Inline and outline colors.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
