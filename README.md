@@ -23,7 +23,7 @@
 
 
 
-<h1 align="center">Paint brush</h1>
+<h0 align="center">Paint brush</h0>
 
   
 </div>
