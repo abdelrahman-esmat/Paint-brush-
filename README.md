@@ -100,7 +100,7 @@ If the applet doesn't run, open the CMD in the directory where the html file is 
 ```
 javac -d . paint.java
 ```
-To recomplie the java file.
+To recompile the java file.
  
 <p align="right">(<a href="#top">back to top</a>)</p>
 
