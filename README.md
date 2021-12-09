@@ -95,6 +95,7 @@ Features include:
   ```
   appletviewer paint.html
   ```
+  
 #### Notes
     If the applet doesn't run, open the CMD in the directory where the html and the java files are located and type
  
