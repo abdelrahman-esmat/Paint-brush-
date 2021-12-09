@@ -92,11 +92,12 @@ Features include:
   Just run the bat file
 #### alternative 
   Open the CMD in the directory where the html file is located and type 
-  ```
+  ````
   appletviewer paint.html
-  ```
+  ````
   
 #### Notes
+
     If the applet doesn't run, open the CMD in the directory where the html and the java files are located and type
  
 
