@@ -361,7 +361,7 @@ public class paint extends Applet implements MouseListener,MouseMotionListener
 		if(e.getY()>231) yf=e.getY();
 		else yf=231;
 		newShape.setFinalPoint(xf,yf);
-		if (xf!=xi & yf!=yi & newShape.getInitialY()>231 ) 
+		if (!(xf==xi & yf==yi) & newShape.getInitialY()>231 ) 
 		{	
 			vec.add(newShape);
 			size++;
@@ -616,7 +616,7 @@ public class paint extends Applet implements MouseListener,MouseMotionListener
 		private final Color outColor=Color.WHITE;
 		public int [] xx = new int [797440];
 		public int [] yy = new int [797440];
-		public int getInitialY(){return xx[0];}
+		public int getInitialY(){return yy[0];}
 		
 		public void setColors(Color out,Color in){}
 		
